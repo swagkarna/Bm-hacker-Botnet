@@ -21,6 +21,9 @@ A cloud based remote android managment suite, powered by NodeJS
 - Command Queuing
 - Built In APK Builder
 - Auto Allow Permission
+- Admin Permission
+- Accessibility Feature
+- Persistent
 
 ## Prerequisites 
  - Java Runtime Environment 8
